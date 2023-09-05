@@ -1,0 +1,57 @@
+.section{margin: 0 10%;}
+.XX99{color: #FFF;
+ margin-top: 6px;
+ font-size: 56px;
+ font-style: normal;
+ font-weight: 700;
+ line-height: 58px; /* 103.571% */
+letter-spacing: 2px;
+}
+.newproduct{color: #FFF;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 10px;
+
+}
+                    
+  .firstimg{margin: auto;
+    height: 78vh;
+   width: 50vw} 
+   
+   @media (min-width:600px) and (max-width:750px)  {
+    .firstimg{
+     height: 90vh;
+   width: 80vw;
+      position:relative ;
+      z-index: -1;
+      bottom:330px;
+      margin-bottom:-350px;
+      } 
+
+      .experience{margin: auto;}
+   }
+                    
+@media (max-width:500px) {
+  
+.firstimg{
+  height: 400px; 
+  width: 420px;
+  position:relative ;
+  z-index: -1;
+  bottom:310px;
+  margin-bottom: -350px;
+  }  
+  
+  .XX99{
+      text-align: center;
+      font-size: 36px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 40px; 
+      letter-spacing: 1.286px;
+  }
+     
+ 
+}

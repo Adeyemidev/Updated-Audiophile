@@ -1,0 +1,13 @@
+.fifth-section{
+    background-color: #F1F1F1;
+    margin: 20px 10%;
+border-radius: 8px;}
+@media (width < 500px) {
+ 
+.zx7-speaker{width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+ .fifth-section{
+  margin: 20px 4%;}  
+}

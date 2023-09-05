@@ -1,0 +1,13 @@
+
+.footerLogo{margin: auto;}
+ li{margin: auto;
+}
+
+li:focus{color:  #D87D4A;;}
+.footerDescription{margin: 6% 5%}
+@media (min-width:600px) {
+    .footerLogo{margin: 0;}
+    .footerDescription{margin: 2% 10%}
+
+}
+

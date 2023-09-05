@@ -1,0 +1,12 @@
+.zx9{margin: 0 10%; background-color: #D87D4A}
+
+@media (width < 600px) {
+    .image-speaker-zx9{ margin-top:0 ; 
+        height: 180px;
+         width: auto;
+     object-fit: cover;}
+
+     .zx9{margin: 0 4%;
+        border-radius: 10px;
+     background-color: #D87D4A}
+}

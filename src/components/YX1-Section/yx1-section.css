@@ -1,0 +1,15 @@
+.yx1{ margin: 50px 10% ;
+
+}
+  .theimage11{width: 500px;
+    height: 300px;
+border-radius: 10px;}
+
+@media (width < 500px) {
+    .yx1{ margin:50px  4% }
+
+    .theimage11{
+      height: 300px;
+      object-fit: cover;
+  border-radius: 10px;}
+}

@@ -1,0 +1,10 @@
+
+
+.img-background{ border-radius: 8px;
+    background: #F1F1F1;}
+
+    .body{margin: 8% 4%;}
+    @media (min-width:600px) {
+        .body{margin: 8% 10%;}
+
+    }
